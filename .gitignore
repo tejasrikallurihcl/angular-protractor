@@ -1,6 +1,6 @@
 conf/allure-results/bb6d7d8f-b351-482e-9d3e-a0d154eaf7aa-testsuite.xml
 conf/allure-results/da0221c9-95e3-4b5c-96f3-57a2dfd406cd-testsuite.xml
 conf/allure-results/e53ac66c-ffd7-4795-9706-28b71ed10010-testsuite.xml
-conf/node_modules
+# conf/node_modules
 conf/screenshots
 conf/target/screenshots
